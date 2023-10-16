@@ -62,6 +62,15 @@ footer {
   width: 100%;
 }
 
+#boton-container {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+
 @media (max-width: 768px) {
 
   main {
